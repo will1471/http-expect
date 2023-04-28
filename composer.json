@@ -1,0 +1,14 @@
+{
+    "name": "will1471/http-expect",
+    "type": "library",
+    "require": {
+        "php": ">=8.1",
+        "react/http": "^1.9",
+        "monolog/monolog": "^3.3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Will1471\\HttpExpect\\": "src/"
+        }
+    }
+}
