@@ -1,6 +1,6 @@
 <?php
 
-namespace Will1471\HttpExpect;
+namespace Will1471\HttpExpect\Server;
 
 use Monolog\Handler\StreamHandler;
 use Monolog\Logger;

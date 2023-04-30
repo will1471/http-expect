@@ -1,6 +1,6 @@
 <?php
 
-namespace Will1471\HttpExpect;
+namespace Will1471\HttpExpect\Server;
 
 use Psr\Http\Message\ServerRequestInterface;
 use Psr\Log\LoggerInterface;
